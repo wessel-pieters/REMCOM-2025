@@ -1,11 +1,11 @@
 # REMCOM MVP Development Checklist
 
 ## Foundation & Setup
-- [ ] Create monorepo structure: `backend/`, `frontend/`, `shared/`
-- [ ] Initialize Git repository
-- [ ] Add `.gitignore` for Java, Node, Docker
-- [ ] Add root `README.md` with setup instructions
-- [ ] Set up Docker Compose for backend, frontend, PostgreSQL
+- [x] Create monorepo structure: `backend/`, `frontend/`, `shared/`
+- [x] Initialize Git repository
+- [x] Add `.gitignore` for Java, Node, Docker
+- [x] Add root `README.md` with setup instructions
+- [x] Set up Docker Compose for backend, frontend, PostgreSQL
 - [ ] Set up CI/CD skeleton (optional for MVP)
 
 ## Backend: Spring Boot
