@@ -9,11 +9,11 @@
 - [ ] Set up CI/CD skeleton (optional for MVP)
 
 ## Backend: Spring Boot
-- [ ] Scaffold Spring Boot project with Gradle/Maven
-- [ ] Add dependencies: Spring Web, Spring Data JPA, PostgreSQL, Liquibase, Spring Security, jjwt, Swagger
-- [ ] Configure PostgreSQL connection
-- [ ] Enable Swagger UI
-- [ ] Set up Liquibase for DB migrations
+- [x] Scaffold Spring Boot project with Gradle/Maven
+- [x] Add dependencies: Spring Web, Spring Data JPA, PostgreSQL, Liquibase, Spring Security, jjwt, Swagger
+- [x] Configure PostgreSQL connection
+- [x] Enable Swagger UI
+- [x] Set up Liquibase for DB migrations
 
 ### Authentication & User Management
 - [ ] Define `User` entity (id, username, password, role, createdAt)
